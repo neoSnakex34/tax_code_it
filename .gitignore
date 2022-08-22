@@ -1,0 +1,5 @@
+used/
+__pycache__/
+.vscode/
+stuff/
+utils/__pycache__/
